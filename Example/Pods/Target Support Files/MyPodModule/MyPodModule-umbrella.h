@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "JdThreedConfig.h"
 
 FOUNDATION_EXPORT double MyPodModuleVersionNumber;
 FOUNDATION_EXPORT const unsigned char MyPodModuleVersionString[];

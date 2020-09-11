@@ -248,6 +248,9 @@
 				LastUpgradeCheck = 0720;
 				ORGANIZATIONNAME = "wangqiang_1988@msn.cn";
 				TargetAttributes = {
+					6003F589195388D20070C39A = {
+						DevelopmentTeam = SZ3LQ8GH8Q;
+					};
 					6003F5AD195388D20070C39A = {
 						TestTargetID = 6003F589195388D20070C39A;
 					};
@@ -521,6 +524,7 @@
 			baseConfigurationReference = FF884E85DE4FAEA5C2642349 /* Pods-MyPodModule_Example.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = SZ3LQ8GH8Q;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "MyPodModule/MyPodModule-Prefix.pch";
 				INFOPLIST_FILE = "MyPodModule/MyPodModule-Info.plist";
@@ -537,6 +541,7 @@
 			baseConfigurationReference = 3D34D88A8AA9E4E6CE4F7428 /* Pods-MyPodModule_Example.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = SZ3LQ8GH8Q;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "MyPodModule/MyPodModule-Prefix.pch";
 				INFOPLIST_FILE = "MyPodModule/MyPodModule-Info.plist";
