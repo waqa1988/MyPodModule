@@ -1,0 +1,22 @@
+{
+  "name": "MyPodModule",
+  "version": "0.1.0",
+  "summary": "A short description of MyPodModule.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/wangqiang_1988@msn.cn/MyPodModule",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "wangqiang_1988@msn.cn": "wangqiang18@jd.com"
+  },
+  "source": {
+    "git": "https://github.com/wangqiang_1988@msn.cn/MyPodModule.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MyPodModule/Classes/**/*"
+}
