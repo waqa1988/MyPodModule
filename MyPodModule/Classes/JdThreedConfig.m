@@ -11,7 +11,7 @@
 @implementation JdThreedConfig
 
 -(NSString*) version {
-    _version = @"1.0.0";
+    _version = @"2.0.0";
     return _version;
 }
 
